@@ -402,6 +402,7 @@ DEPENDENCIES:
          -  qt5-default (Important!)
          -  qtbase5-dev
          -  qtbase5-dev-tools
+         -  libqt5opengl5-dev
          -  qtdeclarative-dev-tools or qtdeclarative5-dev-tools
             (qtdeclarative5-dev?)
          -  qtchooser
